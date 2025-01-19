@@ -15,6 +15,9 @@ The resulting .config is available here if needed.
 
 Install:
 
+How to convert the Sonicwall GMS VA OVA file (free download) to VHDX:
+https://gist.github.com/sukesh-ak/9a633c48ceefe9560b8f2eb5d8fcff72
+
 The compiled kernel can be copied to the /dev/sda1 partition of the appliance as /00/vmlinux (make sure to backup the original).
 
 Note:
